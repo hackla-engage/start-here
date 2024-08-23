@@ -41,6 +41,7 @@ See the contributing file in the repo your issue sends you to.
 ### Google Drive
 - [Main Drive - old](https://drive.google.com/drive/folders/1rSrFjlzgJqJOIC4DMrANLj4tC0_ZJ3so?usp=sharing)
 - [New Shared Drive](https://drive.google.com/drive/folders/1xx9MvmXtD2xHxRN4ubk4dGcSqQdtrUoL?usp=sharing)
+   - FYI- There is an engage folder in this folder. The subfolder has most of the prior research.
 
 ### General Tools
 - [Full Page Screenshot](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en)
@@ -49,7 +50,7 @@ See the contributing file in the repo your issue sends you to.
 - [Prior (2018) wiki](https://github.com/hackla-engage/Engage-Product-Documentation/wiki)
 - [Prior (7/20) UX NC Research Plan](https://docs.google.com/document/d/1_6shJLJwMnif5x0r2qJXG09G5SR1fPFtxqzS9g6OqmE/edit?usp=sharing)
 
-Just FYI- There is an engage folder in this folder. The subfolder has most of the prior research.
+
 
 ---
 
