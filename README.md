@@ -1,39 +1,58 @@
 # Project title and description
 
-Include a project description that explains **what** your project is and **why** it exists. Aim for no more than 3-5 concise sentences. For example, you might say:
+Engage is a civic participation platform that makes it easier for constituents to offer their feedback on policy issues that local Councils are considering. Engage aims to increase access for community stakeholders who are unable to attend public meetings or may otherwise feel unheard by their local government.
 
-{Project Name} is a project of Hack for LA. Hack for LA is a brigade of a Code for America that exists to {your mission}. {Project Name} helps {target users} accomplish {goal of project}. The {app/site/thing you're building}'s main features include {very brief feature descriptions}.
+Engage is a project of Hack for LA. Hack for LA is a project of [Civic Tech Structure](https://www.civictechstructure.org/), Inc a 501(c)(3) NGO. 
 
 ### Project context
 
-Civic projects often exist within a larger context that may include multiple stakeholders, historic relationships, associated research, or other details that are relevant but not *required* for direct contributions. Gathering these details in one place is useful, but the ReadMe isn't that place. Use this section to [link to a Google Doc](#) or other documentation repository where contributors can dig in if they so choose. This is also a good place to link to your Code of Conduct.
+This project is governed by Hack for LA's [Code of Conduct](https://www.hackforla.org/code-of-conduct/).
 
 ### Technology used
-
-- Each platform or framework should get its own bullet.
-- Each platform should include an [active link](#) to the official documentation.
-
-
+- Figma
+- Miro
+- Google Sheets
+- Google Drive
 
 # How to contribute
+- Join Hack for LA https://www.hackforla.org/
+- Once you have been through onboarding, If we have an open role (which you can find out about via onboarding) connect with us in our Slack channel [#engage](https://hackforla.slack.com/archives/C6JBH478W)
 
-Explain the different ways people can contribute. For example:
-
-- Join the team {on Slack/at our weekly hack night/etc}.
-- To help with user research, {do ABC}.
-- To provide design support, {do XYZ}.
-- To contribute to the code, follow the instructions below.
-
-Remember to provide direct links to each channel.
-
+There are several repositories that are part of this project.  Issues will direct you to the correct repository for your work, And you can see all the open issues across all our repositories on our project board.
 
 
 ## Installation instructions
 
-1. Step-by-step instructions help new contributors get a development environment up and running quickly.
-2. You'll want to find the balance between being specific enough for novices to follow, without being so specific that you reinvent the wheel by providing overly-basic instructions that can be found elsewhere.
-3. Feel free to adapt this section and its sub-sections to your own processes.
-4. Alternatively, you can move everything from *Installation instructions* through *Testing* to a separate **Contributing.md** file to keep your **ReadMe.md** more succinct.
+See the contributing file in the repo your issue sends you to.
+
+## Projejct Resources
+
+### Project Details
+- Overview [One Sheet](https://docs.google.com/document/d/1Z8TZKnh4n9LNTe6WaEqb4rKI8cb3pMIEnVtabqSrMk8)
+
+### Design and Planning 
+- [Main Figma File](https://www.figma.com/file/lcq2vhfqvM77DVDINfBdUQ/Engage-1?node-id=1%3A2)
+- [Team Figma Dashboard](https://www.figma.com/files/project/29576025/Engage-Figma-file?fuid=966519326933231162)
+- Miro: [Stakeholder Agenda Creation Process workflows](https://miro.com/app/board/o9J_lS-vI3g=/) This contains pngs imported from Figma
+
+### Neighborhood Council Contact Info
+- [Neighborhood Council Contact Spreadsheet](https://docs.google.com/spreadsheets/d/1k0MC16A6n5rvSEXc_WGP3KnLJT0zmYl_dvhE8oEipk0/edit?usp=sharing)
+
+### Google Drive
+- [Main Drive - old](https://drive.google.com/drive/folders/1rSrFjlzgJqJOIC4DMrANLj4tC0_ZJ3so?usp=sharing)
+- [New Shared Drive](https://drive.google.com/drive/folders/1xx9MvmXtD2xHxRN4ubk4dGcSqQdtrUoL?usp=sharing)
+
+### General Tools
+- [Full Page Screenshot](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en)
+
+### Prior work
+- [Prior (2018) wiki](https://github.com/hackla-engage/Engage-Product-Documentation/wiki)
+- [Prior (7/20) UX NC Research Plan](https://docs.google.com/document/d/1_6shJLJwMnif5x0r2qJXG09G5SR1fPFtxqzS9g6OqmE/edit?usp=sharing)
+
+Just FYI- There is an engage folder in this folder. The subfolder has most of the prior research.
+---
+
+This document is a work in progress... we will add more information below.
 
 
 ### Working with issues
